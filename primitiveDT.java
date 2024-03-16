@@ -24,5 +24,7 @@ public class primitiveDT {
         int i=b;
         System.out.println("i is :"+i);
 
+        
+
     }
 }
