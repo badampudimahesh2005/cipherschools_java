@@ -26,6 +26,12 @@ public class operators_operands {
         int p=5;
         int q=++p;
         System.out.println("p is : "+p+" q is : "+q);
+
+
+        //character to integer
+        char cha='a';
+        int charTOint=cha;
+        System.out.println(charTOint);
         
 
     }
